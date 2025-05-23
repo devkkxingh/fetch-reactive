@@ -6,6 +6,11 @@
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devkkxingh/fetch-reactive"
+  },
+  "homepage": "https://github.com/devkkxingh/fetch-reactive",
   "exports": {
     ".": {
       "import": "./dist/index.modern.js",
